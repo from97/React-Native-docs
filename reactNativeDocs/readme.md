@@ -1,6 +1,6 @@
 # 참가자
 
-    minsekim mina
+    minsekim mina seomoon
 
 #### [블로그문서](https://mins97.github.io/rndoc2/)
 
